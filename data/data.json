@@ -1,0 +1,28 @@
+{
+    "default": [
+        "https://cdn.jsdelivr.net/gh/valhir/cdn@latest/img/zhongzheng-luo-asset.jpg"
+    ],
+    "volibear": [
+        "https://cdn.jsdelivr.net/gh/valhir/cdn@latest/img/Volibear/Classic_Volibear.jpg",
+        "https://cdn.jsdelivr.net/gh/valhir/cdn@latest/img/Volibear/ThunderLord_Volibear.jpg",
+        "https://cdn.jsdelivr.net/gh/valhir/cdn@latest/img/Volibear/NorthernStorm_Volibear.jpg",
+        "https://cdn.jsdelivr.net/gh/valhir/cdn@latest/img/Volibear/Runeguard_Volibear.jpg",
+        "https://cdn.jsdelivr.net/gh/valhir/cdn@latest/img/Volibear/Captain_Volibear.jpg",
+        "https://cdn.jsdelivr.net/gh/valhir/cdn@latest/img/Volibear/ElRayo_Volibear.jpg",
+        "https://cdn.jsdelivr.net/gh/valhir/cdn@latest/img/Volibear/ThousandPierced_Volibear.jpg",
+        "https://cdn.jsdelivr.net/gh/valhir/cdn@latest/img/Volibear/volibear-color-splash.jpg",
+        "https://cdn.jsdelivr.net/gh/valhir/cdn@latest/img/Volibear/van-xiaoh-.jpg"
+    ],
+    "ornn": [
+        "https://cdn.jsdelivr.net/gh/valhir/cdn@latest/img/Ornn/Classic_Ornn.jpg",
+        "https://cdn.jsdelivr.net/gh/valhir/cdn@latest/img/Ornn/ThunderLord_Ornn.jpg",
+        "https://cdn.jsdelivr.net/gh/valhir/cdn@latest/img/Ornn/ElderWood_Ornn.jpg"
+    ],
+    "index": [
+        "https://cdn.jsdelivr.net/gh/valhir/cdn@latest/img/Volibear/Classic_Volibear.jpg",
+        "https://cdn.jsdelivr.net/gh/valhir/cdn@latest/img/Volibear/Runeguard_Volibear.jpg",
+        "https://cdn.jsdelivr.net/gh/valhir/cdn@latest/img/Volibear/ThunderLord_Volibear.jpg",
+        "https://cdn.jsdelivr.net/gh/valhir/cdn@latest/img/Volibear/volibear-color-splash.jpg",
+        "https://cdn.jsdelivr.net/gh/valhir/cdn@latest/img/Volibear/van-xiaoh-.jpg"
+    ]
+}
