@@ -5,9 +5,10 @@
 
 <local:MyCard Title="像素起源·新年季 欢迎回来~" Margin="0,0,0,15">
     <StackPanel Margin="25,40,23,15">
-        <local:MyHint Text="Minecraft 1.16.4服务器仍处在Bata阶段，会有各种奇奇怪怪的Bug。" />
+        <local:MyHint Text="Minecraft 1.16.4服务器仍处在Bata阶段，会有各种奇奇怪怪的Bug，请谅解！" />
+        <local:MyHint Text="正版玩家请点击版本选择右边的“...”按钮→设置→滑动到最底下选择登录方式→“仅正版登录”进服即可。" />
         <local:MyHint Margin="0,8,0,0" IsWarn="False" Padding="13,0,13,0"
-                   Text="默认多线路，本次开服为群组服，使用统一通行证伪正版验证，请点击注册账号登录服务器，可自定义皮肤和披风方便安全，正版玩家直接正版登录即可无需注册。" />
+                   Text="本次使用统一通行证伪正版验证，请点击注册账号来登录服务器，可以自定义皮肤和披风。" />
         <TextBlock TextWrapping="Wrap" Margin="0,8,0,0" Padding="13,0,13,0"
                    Text="祝各位新的一年，学业有成，生活健康，天天发财！&#xA;" />
       
