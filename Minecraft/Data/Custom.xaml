@@ -18,7 +18,7 @@
             <local:MyButton Margin="0,0,10,0" Width="160" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
                    Text="刷新主页" EventType="刷新主页" ToolTip="这通常用于联网更新主页时刷新信息，对本地文件没啥用" />
             <local:MyButton Margin="0,0,10,0" Width="160" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
-                   Text="打开画图" EventType="打开文件" EventData="mspaint.exe" />
+                   Text="注册账号" EventType="打开网页" EventData="https://login2.nide8.com:233/e29eefd96f5d11ea908800163e095b49/register" />
         </StackPanel>
       
         <!-- 这是第二行 -->
