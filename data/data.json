@@ -1,6 +1,8 @@
 {
     "default": [
-        "https://cdn.jsdelivr.net/gh/valhir/cdn/img/zhongzheng-luo-asset.jpg",
+        "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Other/zhongzheng-luo-asset.jpg",
+        "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Other/van-xiaoh-.jpg",
+        "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Other/jun-seong-park-19.jpg",
         "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Ornn/Classic_Ornn.jpg",
         "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Ornn/ThunderLord_Ornn.jpg",
         "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Ornn/ElderWood_Ornn.jpg",
@@ -12,7 +14,6 @@
         "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Volibear/ElRayo_Volibear.jpg",
         "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Volibear/ThousandPierced_Volibear.jpg",
         "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Volibear/volibear-color-splash.jpg",
-        "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Volibear/van-xiaoh-.jpg",
         "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Ornn/Classic_AurelionSol.jpg",
         "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Ornn/AshenLord_AurelionSol.jpg",
         "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Ornn/StormDragon_AurelionSol.jpg"
@@ -26,7 +27,7 @@
         "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Volibear/ElRayo_Volibear.jpg",
         "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Volibear/ThousandPierced_Volibear.jpg",
         "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Volibear/volibear-color-splash.jpg",
-        "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Volibear/van-xiaoh-.jpg"
+        "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Other/van-xiaoh-.jpg"
     ],
     "ornn": [
         "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Ornn/Classic_Ornn.jpg",
@@ -34,9 +35,14 @@
         "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Ornn/ElderWood_Ornn.jpg"
     ],
     "aurelionsol": [
-        "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Ornn/Classic_AurelionSol.jpg",
-        "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Ornn/AshenLord_AurelionSol.jpg",
-        "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Ornn/StormDragon_AurelionSol.jpg"
+        "https://cdn.jsdelivr.net/gh/valhir/cdn/img/AurelionSol/Classic_AurelionSol.jpg",
+        "https://cdn.jsdelivr.net/gh/valhir/cdn/img/AurelionSol/AshenLord_AurelionSol.jpg",
+        "https://cdn.jsdelivr.net/gh/valhir/cdn/img/AurelionSol/StormDragon_AurelionSol.jpg"
+    ],
+    "other": [
+        "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Other/zhongzheng-luo-asset.jpg",
+        "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Other/van-xiaoh-.jpg",
+        "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Other/jun-seong-park-19.jpg"
     ],
     "index": [
         "https://cdn.jsdelivr.net/gh/valhir/cdn/img/Volibear/Classic_Volibear.jpg",
