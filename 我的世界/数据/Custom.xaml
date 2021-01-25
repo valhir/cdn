@@ -12,7 +12,7 @@
         <local:MyHint Margin="0,0,0,8" Text="适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活" />              
         <local:MyHint Margin="0,0,0,8" IsWarn="False" Padding="0,0,13,0"
                    Text="本次使用统一通行证伪正版验证，请点击注册账号来登录服务器，可以自定义皮肤和披风。" />
-        <local:MyHint Margin="0,0,0,8" IsWarn="False" Text="正版玩家请点击“版本选择”右边的“...”→设置→滑动到最底下选择登录方式→“仅正版登录”进服即可。" />
+        <local:MyHint Margin="0,0,0,8" IsWarn="False" Text="正版玩家请点击“版本设置”→设置→滑动到最底下选择登录方式→“仅正版登录”进服即可。" />
         <local:MyHint Margin="0,0,0,5" IsWarn="False" Padding="0,0,13,0"
                    Text="如不清楚自己的Java版本请卸载电脑内的所有Java并点击下面的按钮安装最新版Java8，或在启动器设置里选择Java目录为启动器同级目录下的jre8文件夹" />
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,0" Padding="0,0,0,10" FontSize="17" HorizontalAlignment="Center"
