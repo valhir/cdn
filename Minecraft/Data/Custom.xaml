@@ -5,8 +5,11 @@
 
 <local:MyCard Title="像素起源·新年季 欢迎回来~" Margin="0,0,0,15">
     <StackPanel Margin="25,40,23,15">
-        <local:MyHint Margin="0,0,0,8" Text="Minecraft 1.16.4服务器仍处在Bata阶段，会有各种奇奇怪怪的Bug，请谅解！" />
-        <local:MyHint Margin="0,0,0,8" Text="本次由雨惜（Raspberry266068）赞助服务器且提供4条线路进服，请尽量不要选择“直连”！" />
+        <local:MyHint Margin="0,0,0,8" Text="Minecraft 1.16.4服务器仍处在Beta阶段，会有各种奇奇怪怪的Bug，请谅解！" />
+        <local:MyHint Margin="0,0,0,8" Text="感谢雨惜（Raspberry266068）前期赞助一个月服务器且提供加速线路。" />
+        <local:MyHint Margin="0,0,0,8" Text="服务器现由Vater友情提供空闲4H16G100M服务器。" />         
+        <local:MyHint Margin="0,0,0,8" Text="服务器现在为定时开放！时间为早8:00-晚00:00，请合理安排游戏时间。" />      
+        <local:MyHint Margin="0,0,0,8" Text="适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活" />              
         <local:MyHint Margin="0,0,0,8" IsWarn="False" Padding="0,0,13,0"
                    Text="本次使用统一通行证伪正版验证，请点击注册账号来登录服务器，可以自定义皮肤和披风。" />
         <local:MyHint Margin="0,0,0,8" IsWarn="False" Text="正版玩家请点击“版本选择”右边的“...”→设置→滑动到最底下选择登录方式→“仅正版登录”进服即可。" />
