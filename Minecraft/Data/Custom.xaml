@@ -5,7 +5,7 @@
 
 <local:MyCard Title="像素起源·新年季 欢迎回来~" Margin="0,0,0,15">
     <StackPanel Margin="25,40,23,15">
-        <local:MyHint Margin="0,0,0,8" Text="客户端过期！请及时在群924148643内下载更新！" />   
+        <local:MyHint Margin="0,0,0,8" Text="客户端过期！请及时在群：924148643内下载更新！" />   
         <local:MyHint Margin="0,0,0,8" Text="Minecraft 1.16.4服务器仍处在Bata阶段，会有各种奇奇怪怪的Bug，请谅解！" />
         <local:MyHint Margin="0,0,0,8" Text="本次由雨惜（Raspberry266068）赞助服务器且提供4条线路进服，请尽量不要选择“直连”！" />
         <local:MyHint Margin="0,0,0,8" IsWarn="False" Padding="0,0,13,0"
