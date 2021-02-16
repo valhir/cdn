@@ -3,23 +3,23 @@
      如果你倒腾这个文件把 PCL2 玩炸了，把这个文件直接删除就行了。
      如果你懂得 WPF 的布局文件编写，你甚至可以做出不少的新玩意儿…… -->
 
-<local:MyCard Title="像素起源·新年季 欢迎回来~" Margin="0,0,0,15">
-    <StackPanel Margin="25,40,23,15">
-        <local:MyHint Margin="0,0,0,8" Text="客户端过期！请及时在群924148643内下载更新！" />   
-        <local:MyHint Margin="0,0,0,8" Text="Minecraft 1.16.4服务器仍处在Bata阶段，会有各种奇奇怪怪的Bug，请谅解！" />
-        <local:MyHint Margin="0,0,0,8" Text="本次由雨惜（Raspberry266068）赞助服务器且提供4条线路进服，请尽量不要选择“直连”！" />
+<local:MyCard Title="像素起源·牛转乾坤 欢迎回来~" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">       
+        <local:MyHint Margin="0,0,0,8" Text="服务器现在为定时开放！时间为早8:00-晚00:00，请合理安排游戏时间。" />      
+        <local:MyHint Margin="0,0,0,8" Text="适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活" />
+        <local:MyHint Margin="0,0,0,8" IsWarn="False" Padding="0,0,13,0"
+                   Text="1.16.4与1.12.2均可通过版本选择启动进入不通服务器。" />                      
         <local:MyHint Margin="0,0,0,8" IsWarn="False" Padding="0,0,13,0"
                    Text="本次使用统一通行证伪正版验证，请点击注册账号来登录服务器，可以自定义皮肤和披风。" />
-        <local:MyHint Margin="0,0,0,8" IsWarn="False" Text="正版玩家请点击“版本选择”右边的“...”→设置→滑动到最底下选择登录方式→“仅正版登录”进服即可。" />
         <local:MyHint Margin="0,0,0,5" IsWarn="False" Padding="0,0,13,0"
                    Text="如不清楚自己的Java版本请卸载电脑内的所有Java并点击下面的按钮安装最新版Java8，或在启动器设置里选择Java目录为启动器同级目录下的jre8文件夹" />
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,0" Padding="0,0,0,10" FontSize="17" HorizontalAlignment="Center"
-                   Text="   时隔数月再度回归！一同开荒！享受Minecraft~&#xA;祝各位新的一年，学业有成，生活健康，天天发财！" />
+                   Text="   牛转乾坤过牛年！新年开荒！享受Minecraft~&#xA;祝各位新的一年，学业有成，牛气冲天，天天发财！" />
       
         <!-- 这是第一行 -->
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
             <local:MyButton Margin="0,0,5,0" Width="200" Height="35" HorizontalAlignment="Left" Padding="0,0,0,0" ColorType="Highlight"
-                    Text="使用 1.16.4 优化端启动游戏" EventType="启动游戏" EventData="像素起源1.16.4-Forge" ToolTip="添加了Optfine以及常用Mod" />
+                    Text="使用 1.12.2 宝可梦启动游戏" EventType="启动游戏" EventData="像素起源·牛转乾坤 V1" ToolTip="1.12.2宝可梦客户端进入服务器" />
             <local:MyButton Margin="0,0,5,0" Width="180" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
                    Text="账号管理" EventType="打开网页" EventData="https://login2.nide8.com:233/account/login" ToolTip="修改皮肤、披风、密码" />
             <local:MyButton Margin="0,0,5,0" Width="180" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
@@ -29,7 +29,7 @@
         <!-- 这是第二行 -->
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
             <local:MyButton Margin="0,0,5,0" Width="200" Height="35" HorizontalAlignment="Left" Padding="0,0,0,0" ColorType="Red"
-                    Text="使用 1.16.4 纯净端启动游戏" EventType="启动游戏" EventData="1.16.4-OptiFine_G5" ToolTip="纯净1.16.4，无Mod，有Optfine" />
+                    Text="使用 1.16.4 生存端启动游戏" EventType="启动游戏" EventData="像素起源·1.16.4" ToolTip="1.16.4用于进入原版生存服" />
             <local:MyButton Margin="0,0,5,0" Width="180" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
                    Text="腐竹后台" EventType="打开网页" EventData="https://login2.nide8.com:233/server/login" />
             <local:MyButton Margin="0,0,5,0" Width="180" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
